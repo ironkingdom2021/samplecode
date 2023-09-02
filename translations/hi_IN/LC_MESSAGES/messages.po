@@ -1,4 +1,4 @@
-# Chinese (Simplified, China) translations for FreeGPT WebUI.
+# Hindi (India) translations for FreeGPT WebUI.
 # Copyright (C) 2023 FreeGPT WebUI.
 # This file is distributed under the same license as the FreeGPT WebUI
 # project.
@@ -10,52 +10,52 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/ramonvc/freegpt-webui/issues"
 "MIME-Version: 1.0\n"
-"Language: zh_Hans_CN\n"
-"Language-Team: zh_Hans_CN <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: hi_IN\n"
+"Language-Team: hi_IN <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.12.1\n"
 
 #:
 msgid "New Conversation"
-msgstr "新的对话"
+msgstr "नई बातचीत"
 
 #:
 msgid "Clear Conversations"
-msgstr "清空对话"
+msgstr "बातचीत साफ करें"
 
 #:
 msgid "API Key"
-msgstr "API密钥"
+msgstr "API कुंजी"
 
 #:
 msgid "Ok"
-msgstr "确认"
+msgstr "ठीक है"
 
 #:
 msgid "Dark Mode"
-msgstr "暗黑模式"
+msgstr "डार्क मोड"
 
 #:
 msgid "Language"
-msgstr "语言"
+msgstr "भाषा"
 
 #:
 msgid "Stop Generating"
-msgstr "停止产生"
+msgstr "उत्पादन रोकें"
 
 #:
 msgid "Ask a question"
-msgstr "提问"
+msgstr "एक प्रश्न पूछें"
 
 #:
 msgid "IMAGE"
-msgstr "图片"
+msgstr "छवि"
 
 #:
 msgid "Default"
-msgstr "默认"
+msgstr "डिफ़ॉल्ट"
 
 #:
 msgid "DAN"
@@ -63,12 +63,12 @@ msgstr "DAN"
 
 #:
 msgid "Evil"
-msgstr "邪恶"
+msgstr "बुराई"
 
 #:
 msgid "Web Access"
-msgstr "网络访问"
+msgstr "वेब पहुंच"
 
 #:
 msgid "Version"
-msgstr "版本"
+msgstr "संस्करण"

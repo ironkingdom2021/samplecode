@@ -1,4 +1,4 @@
-# Chinese (Simplified, China) translations for FreeGPT WebUI.
+# Russian (Russia) translations for FreeGPT WebUI.
 # Copyright (C) 2023 FreeGPT WebUI.
 # This file is distributed under the same license as the FreeGPT WebUI
 # project.
@@ -10,52 +10,53 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/ramonvc/freegpt-webui/issues"
 "MIME-Version: 1.0\n"
-"Language: zh_Hans_CN\n"
-"Language-Team: zh_Hans_CN <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ru_RU\n"
+"Language-Team: ru_RU <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.12.1\n"
 
 #:
 msgid "New Conversation"
-msgstr "新的对话"
+msgstr "Новый разговор"
 
 #:
 msgid "Clear Conversations"
-msgstr "清空对话"
+msgstr "Очистить разговоры"
 
 #:
 msgid "API Key"
-msgstr "API密钥"
+msgstr "API ключ"
 
 #:
 msgid "Ok"
-msgstr "确认"
+msgstr "Ок"
 
 #:
 msgid "Dark Mode"
-msgstr "暗黑模式"
+msgstr "Темный режим"
 
 #:
 msgid "Language"
-msgstr "语言"
+msgstr "Язык"
 
 #:
 msgid "Stop Generating"
-msgstr "停止产生"
+msgstr "Остановить генерацию"
 
 #:
 msgid "Ask a question"
-msgstr "提问"
+msgstr "Задать вопрос"
 
 #:
 msgid "IMAGE"
-msgstr "图片"
+msgstr "ИЗОБРАЖЕНИЕ"
 
 #:
 msgid "Default"
-msgstr "默认"
+msgstr "По умолчанию"
 
 #:
 msgid "DAN"
@@ -63,12 +64,12 @@ msgstr "DAN"
 
 #:
 msgid "Evil"
-msgstr "邪恶"
+msgstr "Зло"
 
 #:
 msgid "Web Access"
-msgstr "网络访问"
+msgstr "Веб-доступ"
 
 #:
 msgid "Version"
-msgstr "版本"
+msgstr "Версия"

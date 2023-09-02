@@ -1,4 +1,4 @@
-# Chinese (Simplified, China) translations for FreeGPT WebUI.
+# Hebrew (Israel) translations for FreeGPT WebUI.
 # Copyright (C) 2023 FreeGPT WebUI.
 # This file is distributed under the same license as the FreeGPT WebUI
 # project.
@@ -10,65 +10,65 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/ramonvc/freegpt-webui/issues"
 "MIME-Version: 1.0\n"
-"Language: zh_Hans_CN\n"
-"Language-Team: zh_Hans_CN <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: he_IL\n"
+"Language-Team: he_IL <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.12.1\n"
 
 #:
 msgid "New Conversation"
-msgstr "新的对话"
+msgstr "שיחה חדשה"
 
 #:
 msgid "Clear Conversations"
-msgstr "清空对话"
+msgstr "נקה שיחות"
 
 #:
 msgid "API Key"
-msgstr "API密钥"
+msgstr "מפתח API"
 
 #:
 msgid "Ok"
-msgstr "确认"
+msgstr "אוקיי"
 
 #:
 msgid "Dark Mode"
-msgstr "暗黑模式"
+msgstr "מצב כהה"
 
 #:
 msgid "Language"
-msgstr "语言"
+msgstr "שפה"
 
 #:
 msgid "Stop Generating"
-msgstr "停止产生"
+msgstr "הפסק ליצור"
 
 #:
 msgid "Ask a question"
-msgstr "提问"
+msgstr "שאל שאלה"
 
 #:
 msgid "IMAGE"
-msgstr "图片"
+msgstr "תמונה"
 
 #:
 msgid "Default"
-msgstr "默认"
+msgstr "ברירת מחדל"
 
 #:
 msgid "DAN"
-msgstr "DAN"
+msgstr "DAN" 
 
 #:
 msgid "Evil"
-msgstr "邪恶"
+msgstr "רשע"
 
 #:
 msgid "Web Access"
-msgstr "网络访问"
+msgstr "גישה לאינטרנט"
 
 #:
 msgid "Version"
-msgstr "版本"
+msgstr "גרסה"

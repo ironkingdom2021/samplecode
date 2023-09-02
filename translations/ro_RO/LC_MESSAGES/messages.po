@@ -1,4 +1,4 @@
-# Chinese (Simplified, China) translations for FreeGPT WebUI.
+# Romanian (Romania) translations for FreeGPT WebUI.
 # Copyright (C) 2023 FreeGPT WebUI.
 # This file is distributed under the same license as the FreeGPT WebUI
 # project.
@@ -10,52 +10,53 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/ramonvc/freegpt-webui/issues"
 "MIME-Version: 1.0\n"
-"Language: zh_Hans_CN\n"
-"Language-Team: zh_Hans_CN <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ro_RO\n"
+"Language-Team: ro_RO <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100"
+" < 20)) ? 1 : 2);\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.12.1\n"
 
 #:
 msgid "New Conversation"
-msgstr "新的对话"
+msgstr "Conversație nouă"
 
 #:
 msgid "Clear Conversations"
-msgstr "清空对话"
+msgstr "Șterge conversațiile"
 
 #:
 msgid "API Key"
-msgstr "API密钥"
+msgstr "Cheie API"
 
 #:
 msgid "Ok"
-msgstr "确认"
+msgstr "Ok"
 
 #:
 msgid "Dark Mode"
-msgstr "暗黑模式"
+msgstr "Mod întunecat"
 
 #:
 msgid "Language"
-msgstr "语言"
+msgstr "Limbă"
 
 #:
 msgid "Stop Generating"
-msgstr "停止产生"
+msgstr "Opriți generarea"
 
 #:
 msgid "Ask a question"
-msgstr "提问"
+msgstr "Pune o întrebare"
 
 #:
 msgid "IMAGE"
-msgstr "图片"
+msgstr "IMAGINE"
 
 #:
 msgid "Default"
-msgstr "默认"
+msgstr "Implicit"
 
 #:
 msgid "DAN"
@@ -63,12 +64,12 @@ msgstr "DAN"
 
 #:
 msgid "Evil"
-msgstr "邪恶"
+msgstr "Rău"
 
 #:
 msgid "Web Access"
-msgstr "网络访问"
+msgstr "Acces la web"
 
 #:
 msgid "Version"
-msgstr "版本"
+msgstr "Versiune"

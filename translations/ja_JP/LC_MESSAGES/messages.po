@@ -1,4 +1,4 @@
-# Chinese (Simplified, China) translations for FreeGPT WebUI.
+# Japanese (Japan) translations for FreeGPT WebUI.
 # Copyright (C) 2023 FreeGPT WebUI.
 # This file is distributed under the same license as the FreeGPT WebUI
 # project.
@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/ramonvc/freegpt-webui/issues"
 "MIME-Version: 1.0\n"
-"Language: zh_Hans_CN\n"
-"Language-Team: zh_Hans_CN <LL@li.org>\n"
+"Language: ja_JP\n"
+"Language-Team: ja_JP <LL@li.org>\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,43 +19,43 @@ msgstr ""
 
 #:
 msgid "New Conversation"
-msgstr "新的对话"
+msgstr "新しい会話"
 
 #:
 msgid "Clear Conversations"
-msgstr "清空对话"
+msgstr "会話をクリア"
 
 #:
 msgid "API Key"
-msgstr "API密钥"
+msgstr "APIキー"
 
 #:
 msgid "Ok"
-msgstr "确认"
+msgstr "OK"
 
 #:
 msgid "Dark Mode"
-msgstr "暗黑模式"
+msgstr "ダークモード"
 
 #:
 msgid "Language"
-msgstr "语言"
+msgstr "言語"
 
 #:
 msgid "Stop Generating"
-msgstr "停止产生"
+msgstr "生成を停止"
 
 #:
 msgid "Ask a question"
-msgstr "提问"
+msgstr "質問をする"
 
 #:
 msgid "IMAGE"
-msgstr "图片"
+msgstr "画像"
 
 #:
 msgid "Default"
-msgstr "默认"
+msgstr "デフォルト"
 
 #:
 msgid "DAN"
@@ -63,12 +63,12 @@ msgstr "DAN"
 
 #:
 msgid "Evil"
-msgstr "邪恶"
+msgstr "悪"
 
 #:
 msgid "Web Access"
-msgstr "网络访问"
+msgstr "Webアクセス"
 
 #:
 msgid "Version"
-msgstr "版本"
+msgstr "バージョン"
